@@ -21,7 +21,8 @@
 
 🐍  Here's my CodeForces Handle [here](https://codeforces.com/profile/sahilmadaan.email)
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact 
+**Did you know the first computer "bug" was a real bug? In 1947, a moth got stuck in Harvard’s Mark II computer, causing an error. This led to the term "debugging" in computing!**
 
  </div>
  
