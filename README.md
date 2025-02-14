@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Rust HTTP Server**
+ 🔭 I’m currently working on **Building a Chess Game Logic**
  
  🌱 I’m currently learning **Rust, Data Structues in C++ and MERN Stack**
 
