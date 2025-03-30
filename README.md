@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Building a Chess Game Logic**
+ 🔭 I’m currently working on **Blink and Fnky**
  
  🌱 I’m currently learning **Rust, Data Structues in C++ and MERN Stack**
 
@@ -19,10 +19,12 @@
 
 🐍  Here's my LeetCode Handle [here](https://leetcode.com/u/sahilmadaan_leetcode/)
 
+🐍  Here's my LeetCode Handle where i give contests [here](https://leetcode.com/u/sahil_madaan_048/)
+
 🐍  Here's my CodeForces Handle [here](https://codeforces.com/profile/sahilmadaan.email)
 
-⚡ Fun fact 
-**Did you know the first computer "bug" was a real bug? In 1947, a moth got stuck in Harvard’s Mark II computer, causing an error. This led to the term "debugging" in computing!**
+⚡ I believe 
+**Anything worth doing is worth overdoing**
 
  </div>
  
