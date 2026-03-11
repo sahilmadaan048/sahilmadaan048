@@ -17,11 +17,7 @@
 
 💬  I'm passionate about Competitive Programming and love Problem Solving
 
-🐍  Here's my LeetCode Handle [here](https://leetcode.com/u/sahilmadaan_leetcode/)
-
-🐍  Here's my LeetCode Handle where i give contests [here](https://leetcode.com/u/sahil_madaan_048/)
-
-🐍  Here's my CodeForces Handle [here](https://codeforces.com/profile/sahilmadaan.email)
+🐍  Here's my LeetCode Handle [here](https://leetcode.com/u/sahil_madaan_048/)
 
 ⚡ I believe 
 **Anything worth doing is worth overdoing**
